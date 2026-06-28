@@ -1,8 +1,8 @@
-# Hi 👋, I'm Djart Jain
+# Hi 👋, I'm Disha Jain
 
 ## 💻 Aspiring Data Scientist | Machine Learning Enthusiast
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 Computer Science Engineering Student
 
 🌱 Currently learning
 - Python
